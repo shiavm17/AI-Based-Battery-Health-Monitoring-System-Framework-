@@ -34,10 +34,7 @@
 2. [System Architecture](#-system-architecture)
 3. [AI Model Details](#-ai-model-details)
 4. [Alert Thresholds](#-alert-thresholds)
-5. [API Endpoints](#-api-endpoints)
-6. [Validation Results](#-validation-results)
-7. [References & Standards](#-references--standards)
-8. [Contact](#-contact)
+5. [Contact](#-contact)
 
 ---
 
